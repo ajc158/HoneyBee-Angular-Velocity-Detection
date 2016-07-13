@@ -15,6 +15,9 @@ Fourth, install SpineML_2_BRAHMS and BRAHMS as described here. Note the installa
 Fifth. The zip contains three directories beginning ‘Paper’ – these are the experiments. The cc_XXXX_model directories are the SpineML models. You now need to configure each experiment for your system – replace the SML_2_B_dir, SML_dir and Model_dir variables in run_FigX.py and analyse_FigX.py with the SpineML_2_BRAHMS, SystemML and model directories on your system, respectively.
 
 Sixth, run
+
+'''
 python run_FigX.py && python analyse_FigX.py
+'''
 
 You will get a labelled graph of the model output when the batch run is complete.
