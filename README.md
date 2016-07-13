@@ -1,6 +1,6 @@
 # HoneyBee-Angular-Velocity-Detection
 
-RUNNING THE MODEL:
+## RUNNING THE MODEL:
 
 Below are instructions for obtaining and running the Corridor Centring Model. There are three experiments included, and there is some set up work to configure each. The model can be run on Linux or OSX.
 
