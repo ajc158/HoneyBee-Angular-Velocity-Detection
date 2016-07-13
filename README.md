@@ -16,8 +16,8 @@ Fifth. The zip contains three directories beginning ‘Paper’ – these are th
 
 Sixth, run
 
-'''
+```bash
 python run_FigX.py && python analyse_FigX.py
-'''
+```
 
 You will get a labelled graph of the model output when the batch run is complete.
