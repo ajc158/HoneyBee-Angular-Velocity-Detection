@@ -12,7 +12,7 @@ Third, run QtCreator, load the .pro file and use the default build options, then
 
 Fourth, install SpineML_2_BRAHMS and BRAHMS as described here. Note the installation locations (on Mac the installation locations are ”inside” the .app package,right click and select ‘show package contents’)
 
-Fifth. The zip contains three directories beginning ‘Paper’ – these are the experiments. The cc_XXXX_model directories are the SpineML models. You now need to configure each experiment for your system – replace the SML_2_B_dir, SML_dir and Model_dir variables in run_FigX.py and analyse_FigX.py with the SpineML_2_BRAHMS, SystemML and model directories on your system, respectively.
+Fifth. The zip contains three directories beginning ‘Paper’ – these are the experiments. The `cc_XXXX_model` directories are the SpineML models. You now need to configure each experiment for your system – replace the `SML_2_B_dir`, `SML_dir` and `Model_dir` variables in `run_FigX.py` and `analyse_FigX.py` with the SpineML_2_BRAHMS, SystemML and model directories on your system, respectively.
 
 Sixth, run
 
